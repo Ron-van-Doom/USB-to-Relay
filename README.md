@@ -3,7 +3,9 @@ Dokumentation by Roland, based of Orwa
 ## Content
 - [Components](#Components)
 - [Wiring Diagram](#Wiring-Diagram)
-- [Prerequisites (installation)](#prerequisites-%28installation%29)
+- [Prerequisites (installation)](#prerequisites)
+- [Usage instructions (as a libary)](#usage-instructions-(as-a-libary))
+- [Usage instructions (from the command line)](#usage-instructions-(from-the-command-line))
 
 ## Components
 1. Hardware
@@ -13,7 +15,7 @@ Dokumentation by Roland, based of Orwa
 ## Wiring Diagram
 ![Wiring Diagram](https://github.com/Ron-van-Doom/USB-to-Relay/blob/master/Wiring%20Diagram.svg)
 
-## Prerequisites %28installation%29
+## Prerequisites (installation)
 1. PySerial package. To install type the following from the command prompt:
     "pip install pyserial"
 
