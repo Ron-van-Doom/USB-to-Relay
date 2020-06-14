@@ -3,9 +3,9 @@ Dokumentation by Roland, based of Orwa
 ## Content
 - [Components](#Components)
 - [Wiring Diagram](#Wiring-Diagram)
-- [Prerequisites (installation)](#prerequisites)
-- [Usage instructions (as a libary)](#usage-instructions-\(as-a-libary\))
-- [Usage instructions (from the command line)](#usage-instructions-\(from-the-command-line\))
+- [Prerequisites (installation)](##prerequisites-installation)
+- [Usage instructions (as a libary)](#usage-instructions-as-a-libary)
+- [Usage instructions (from the command line)](#usage-instructions-from-the-command-line)
 
 ## Components
 1. Hardware
