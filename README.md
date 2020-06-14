@@ -13,7 +13,7 @@ Dokumentation by Roland, based of Orwa
 ## Wiring Diagram
 ![Wiring Diagram](https://github.com/Ron-van-Doom/USB-to-Relay/blob/master/Wiring%20Diagram.svg)
 
-## Prerequisites (installation)
+## Prerequisites %28installation%29
 1. PySerial package. To install type the following from the command prompt:
     "pip install pyserial"
 
