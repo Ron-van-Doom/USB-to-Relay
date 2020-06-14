@@ -23,7 +23,7 @@ Dokumentation by Roland, based of Orwa
 1. Launch "idle" on windows
 1. Type: "import os:print(os.getcwd())"
 ![Python Screenshot](Python.PNG)
-1. Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color:blue">blue</span>)
+1. Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color:#0000FF">blue</span>)
 1. Now you can use the libary using "import relay" then calling the following functions:
    1. relay.turn_on():  turns the relay on
    1. relay.turn_off(): turns the relay off
