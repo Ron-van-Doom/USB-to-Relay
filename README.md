@@ -2,8 +2,8 @@
 Dokumentation by Roland, based of Orwa
 
 - [Components](#Components)
-- [Wiring Diagram](#WiringDiagram)
-- [Prerequisites (installation)](#Prerequisites(installation))
+- [Wiring Diagram](#Wiring_Diagram)
+- [Prerequisites (installation)](#Prerequisites_(installation))
 
 ## Components
 1. Hardware
