@@ -25,8 +25,8 @@ Dokumentation by Roland, based of Orwa
 ![Python Screenshot](Python.PNG)
 1.  Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color:#0000FF;">blue</span>)
 1.  Now you can use the libary using "import relay" then calling the following functions:
-   1.   relay.turn_on():  turns the relay on
-   1.   relay.turn_off(): turns the relay off
+    1.   relay.turn_on():  turns the relay on
+    1.   relay.turn_off(): turns the relay off
 1.  Note that if the hardware is not connected then an exception will be thrown when importing the libary
 1.  Note that if the hardware is connected but being used by another program, an exception will also be thrown when importing the libary
 
