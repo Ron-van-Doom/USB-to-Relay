@@ -12,8 +12,6 @@ Dokumentation by Roland, based of Orwa
 2. relay_sketch.ino
 3. relay.py
 
-<span style="color:red">test</span>
-
 ## Wiring Diagram
 ![Wiring Diagram](Wiring%20Diagram.svg)
 
