@@ -3,7 +3,7 @@ Dokumentation by Roland, based of Orwa
 ## Content
 - [Components](#Components)
 - [Wiring Diagram](#Wiring-Diagram)
-- [Prerequisites (installation)](##prerequisites-installation)
+- [Prerequisites (installation)](#prerequisites-installation)
 - [Usage instructions (as a libary)](#usage-instructions-as-a-libary)
 - [Usage instructions (from the command line)](#usage-instructions-from-the-command-line)
 
