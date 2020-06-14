@@ -20,7 +20,7 @@ Dokumentation by Roland, based of Orwa
     "pip install pyserial"
 
 ## Usage instructions (as a libary)
-1. Launch **"idle"** on windows
+1. Launch "idle" on windows
 1. Type: "import os:print(os.getcwd())"
 ![Python Screenshot](Python.PNG)
 1. Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color:blue">blue</span>)
