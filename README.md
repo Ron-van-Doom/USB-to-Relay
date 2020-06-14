@@ -1,7 +1,9 @@
 # Simple Relay Control Via Serial
 Dokumentation by Roland, based of Orwa
 
-- [Components](##components)
+- [Components](##Components)
+- [Wiring Diagram](##Wiring Diagram)
+- [Prerequisites (installation)](##Prerequisites (installation))
 
 ## Components
 1. Hardware
