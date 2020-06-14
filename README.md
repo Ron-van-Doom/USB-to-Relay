@@ -1,5 +1,5 @@
 # Simple Relay Control Via Serial
-Documentation based of Orwa
+Documentation based on Orwa
 ## Content
 - [Components](#Components)
 - [Wiring Diagram](#Wiring-Diagram)
