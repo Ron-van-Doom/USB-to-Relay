@@ -17,4 +17,4 @@ Dokumentation by Roland, based of Orwa
 1. Launch **"idle"** on windows
 2. Type: *"import os:print(os.getcwd())"*
 ![Python Screenshot](https://github.com/Ron-van-Doom/USB-to-Relay/blob/master/Python.PNG)
-3. Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color:blue">blue</span>)
+3. Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color: blue">blue</span>)
