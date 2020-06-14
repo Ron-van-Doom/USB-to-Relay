@@ -7,7 +7,7 @@ Dokumentation by Roland, based of Orwa
 3. relay.py
 
 ## Wiring Diagram
-![Wiring Diagram](https://raw.githubusercontent.com/Ron-van-Doom/USB-to-Relay/master/Wiring%20Diagram.svg?token=AP6SIGCQMB3DKQGE2CNAZB2642EOM)
+![Wiring Diagram](https://github.com/Ron-van-Doom/USB-to-Relay/blob/master/Wiring%20Diagram.svg)
 
 ## Prerequisites (installation)
 1. PySerial package. To install type the following from the command prompt:
