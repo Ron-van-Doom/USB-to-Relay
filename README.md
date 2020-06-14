@@ -11,10 +11,15 @@ Dokumentation by Roland, based of Orwa
 
 ## Prerequisites (installation)
 1. PySerial package. To install type the following from the command prompt:
-    *"pip install pyserial"*
+    "pip install pyserial"
 
 ## Usage instructions (as a libary)
 1. Launch **"idle"** on windows
-2. Type: *"import os:print(os.getcwd())"*
+1. Type: "import os:print(os.getcwd())"
 ![Python Screenshot](https://github.com/Ron-van-Doom/USB-to-Relay/blob/master/Python.PNG)
-3. Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color:blue">blue</span>)
+1. Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color:blue">blue</span>)
+1. Now you can use the libary using "import relay" then calling the following functions:
+   a. relay.turn_on():  turns the relay on
+   a. relay.turn_off(): turns the relay off
+1. Note that if the hardware is not connected then an exception will be thrown when importing the libary
+1. Note that if the hardware is connected but being used by another program, an exception will also be thrown when importing the libary
