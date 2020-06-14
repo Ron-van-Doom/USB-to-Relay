@@ -11,4 +11,8 @@ Dokumentation by Roland, based of Orwa
 
 ## Prerequisites (installation)
 1. PySerial package. To install type the following from the command prompt:
-1. "pip install pyserial"
+    *"pip install pyserial"*
+
+## Usage instructions (as a libary)
+1. Launch **"idle"** on windows
+2. Type: *"import os:print(os.getcwd())"*
