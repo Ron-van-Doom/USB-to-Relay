@@ -22,7 +22,7 @@ Documentation by Orwa
 
 ## Usage instructions (as a libary)
 1.  Launch "idle" on windows
-1.  Type: `import os:print(os.getcwd())`
+1.  Type: `import os; print(os.getcwd())`
 ![Python Screenshot](Python.PNG)
 1.  Copy "relay.py" to subdirectory "Lib" within the folder above (displayed in idle in <span style="color:#0000FF;">blue</span>)
 1.  Now you can use the libary using "import relay" then calling the following functions:
