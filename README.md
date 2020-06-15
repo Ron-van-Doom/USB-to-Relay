@@ -33,7 +33,7 @@ Documentation by Orwa
 
 ## Usage instructions (from the command line)
 1.  To turn on the relay from the command line, go to the folder where "relay.py" is stored and type the following commands:
-    1.  `python relay.py 1` **turns the relay on**
-    1.  `python relay.py 0` **turns the relay off**
+    1.  `python relay.py 1` *turns the relay on*
+    1.  `python relay.py 0` *turns the relay off*
 1.  Note that if the hardware is not connected, an error message will be displayed.
 1.  Note that if the hardware is connected but being used by another program, an error message will be displayed.
